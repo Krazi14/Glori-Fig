@@ -82,7 +82,7 @@ export function Dashboard({ camiones, firmas, areas, firmaGuardada, onNavigate, 
               Flujo de firmas digitales activo
             </span>
             <h1 className="mt-5 font-display text-[28px] font-extrabold leading-[1.15] tracking-tight sm:text-[38px]">
-              Buenos días, María <span className="inline-block origin-bottom-right">👋</span>
+              Buenos días, Renzo <span className="inline-block origin-bottom-right">👋</span>
             </h1>
             <p className="mt-3 max-w-xl text-[13.5px] leading-relaxed text-brand-100 sm:text-[15px]">
               Las firmas ya no viajan de área en área. Revisa, aprueba y libera cada camión desde un

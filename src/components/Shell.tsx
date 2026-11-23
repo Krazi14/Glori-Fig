@@ -119,7 +119,7 @@ export function Sidebar({
         <div className="flex items-center gap-3 border-t border-line px-5 py-4">
           <Avatar nombre="María Rojas" />
           <div className="min-w-0 flex-1">
-            <p className="truncate text-[13px] font-bold text-ink">María Rojas</p>
+            <p className="truncate text-[13px] font-bold text-ink">Renzo Heras</p>
             <p className="truncate text-[10.5px] text-muted">Coordinación de Calidad</p>
           </div>
           <Icon name="logout" className="h-4 w-4 text-slate-300" />
@@ -225,7 +225,7 @@ export function Topbar({
         <div className="hidden items-center gap-2.5 md:flex">
           <Avatar nombre="María Rojas" />
           <div className="leading-tight">
-            <p className="text-[12.5px] font-bold text-ink">María Rojas</p>
+            <p className="text-[12.5px] font-bold text-ink">Renzo Heras</p>
             <p className="text-[10.5px] text-muted">Calidad</p>
           </div>
         </div>
